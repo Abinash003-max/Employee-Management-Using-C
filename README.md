@@ -72,8 +72,8 @@ gcc main.c admin.c employee.c utils.c -o ems.exe
 
 ## 📒 Sample Format: employees.txt
 ```
-101 John john123
-102 Alice alice321
+101 Abinash Abinash123
+102 Pratik  Pratik123
 ```
 
 ## 📒 Sample Format: attendance.txt
